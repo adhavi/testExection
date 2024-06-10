@@ -9,6 +9,7 @@ public class DJJ {
 	public void demogit() 
 	{
 		System.out.println("Hi thsi is commit messsge by adhadu");
+		System.out.println("user 2 commit");
 	}
 
 }
