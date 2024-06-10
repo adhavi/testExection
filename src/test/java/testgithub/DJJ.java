@@ -15,6 +15,7 @@ public class DJJ {
 		System.out.println("user-1 3rd comment-git conflict1");
 
 		System.out.println("user 2 second comment");
+		System.out.println("hi this user 1 branch");
 
 	}
 
